@@ -626,7 +626,7 @@
   {
     "name": "Blockops Network",
     "url": "https://www.blockops.network/",
-    "description": "BlockOps simplifies Web3 infrastructure with scalable RPCs, streamlined node deployment, and real-time observability. Through tools like Mission Control and Telescope, it accelerates blockchain operations for developers and node operators across Ethereum, Polkadot, Base, and emerging appchains.",
+    "description": "BlockOps simplifies Web3 infrastructure with scalable RPCs, streamlined node deployment, and real-time observability. Through tools like Mission Control and Telescope, it accelerates blockchain operations for developers and node operators across Ethereum, Base, and emerging appchains.",
     "imageUrl": "/images/partners/blockops.png",
     "category": "infra",
     "subcategory": "developer tool,node provider"
